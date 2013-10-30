@@ -5,7 +5,7 @@ osx shell script to scale images down to 2 million pixels according to Apple ibo
 
 "Your book, vendor ID:NNN, could not be delivered. The following images are larger than two million pixels and must be resized"
 
-There is also an OSX App created with (Platypus) [http://sveinbjorn.org/platypus].
+There is also an OSX App created with [Platypus](http://sveinbjorn.org/platypus).
 
 The script is very rough at the moment.
 
